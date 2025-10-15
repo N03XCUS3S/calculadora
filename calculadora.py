@@ -1,5 +1,5 @@
 x = 5
 y = 7
 
-resta = x - y;
-print(resta)
+mult = x * y;
+print(mult)
